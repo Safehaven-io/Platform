@@ -11,11 +11,11 @@ safeshare.js
 - [License](#license)
 
 ## What is it?
-safeshare.js is an implementation of [Shamir's threshold secret sharing scheme](http://en.wikipedia.org/wiki/Shamir's_Secret_Sharing) in JavaScript.
+safeshare.js is an implementation of ssss in JavaScript.
 
 It can be used to split any "secret" (i.e. a password, text file, Bitcoin private key, anything) into _n_ number of "shares" (each the same size in bits as the original secret), requiring that exactly any number _t_ ("threshold") of them be present to reconstruct the original secret.
 
-SafeShare.js is an client side demo of a [Safehaven's](https://safehaven.io) secret sharing scheme.
+SafeShare.js is an client side demo of [Safehaven's](https://safehaven.io) secret sharing scheme.
 
 The goal is to give users the possibility to test some secret share functions before getting acquainted with the Alpha release.
 

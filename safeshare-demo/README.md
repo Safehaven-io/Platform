@@ -15,9 +15,9 @@ safeshare.js is an implementation of [Shamir's threshold secret sharing scheme](
 
 It can be used to split any "secret" (i.e. a password, text file, Bitcoin private key, anything) into _n_ number of "shares" (each the same size in bits as the original secret), requiring that exactly any number _t_ ("threshold") of them be present to reconstruct the original secret.
 
-SafeShare.js is an important part of [Safehaven's](https://safehaven.io) share distribution protocols.
+SafeShare.js is an client side demo of a [Safehaven's](https://safehaven.io) secret sharing scheme.
 
-This is a fork of the original excellent code created by `amper5and` on Github. The [original secrets.js can be found there](https://github.com/amper5and/secrets.js/). & forked by `grempe` https://github.com/grempe/secrets.js
+The goal is to give users the possibility to test some secret share functions before getting acquainted with the Alpha release.
 
 ## Examples:
 Divide a 512-bit key, expressed in hexadecimal form, into 9 shares, requiring that any 7 of them are necessary to reconstruct the original key:

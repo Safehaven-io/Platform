@@ -29,7 +29,7 @@ class Example {
 
 ## How it works
 
-Shamir's Secret Sharing algorithm is a way to split an arbitrary secret `S` into `N` parts, of which
+It's a way to split an arbitrary secret `S` into `N` parts, of which
 at least `K` are required to reconstruct `S`. For example, a root password can be split among five
 people, and if three or more of them combine their parts, they can recover the root password.
 

@@ -1,5 +1,3 @@
-A Java implementation of [Shamir's Secret Sharing
-algorithm](http://en.wikipedia.org/wiki/Shamir's_Secret_Sharing) over GF(256).
 
 ## Add to your project
 
@@ -101,8 +99,3 @@ Benchmarks.split    4          1024  avgt  200   396.708 ±  1.520  us/op
 
 **N.B.:** `split` is quadratic with respect to the number of shares being combined.
 
-## License
-
-Copyright © 2017 Coda Hale
-
-Distributed under the Apache License 2.0.

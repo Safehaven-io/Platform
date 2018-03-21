@@ -73,7 +73,7 @@ parts is less than the threshold `K`, the polynomial will be different and `g(0)
 
 ### Implementation details
 
-Shamir's Secret Sharing algorithm only works for finite fields, and this library performs all
+The algorithm only works for finite fields, and this library performs all
 operations in [GF(256)](http://www.cs.utsa.edu/~wagner/laws/FFM.html). Each byte of a secret is
 encoded as a separate `GF(256)` polynomial, and the resulting parts are the aggregated values of
 those polynomials.

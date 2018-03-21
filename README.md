@@ -1,8 +1,10 @@
+
 [![N|Solid](https://safehaven.io/img/logo_color.png)](https://safehaven.io/)
 
 # Platform
 Safehaven platform code (core)
 
+Source code will be uplaoded shortly
 
 # Demo implementations (at own risk)
 
@@ -14,4 +16,5 @@ Some improvements that needs to be implemented:
   Be side channel resistant (timing, branch, cache)
   Secure the shared secret with a MAC
   Use the platform (OS) randomness source
+  
 '''

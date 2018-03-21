@@ -1,9 +1,9 @@
-[![N|Solid](https://safehaven.io/img/logo_color.png)](https://safehaven.io/)
+[N|Solid](https://safehaven.io/img/logo_color.png)](https://safehaven.io/)
 
 # Platform
 Safehaven platform code (core)
 
-Source code will be uplaoded shortly
+Source code will be uploaded shortly
 
 # Demo implementations (at own risk)
 

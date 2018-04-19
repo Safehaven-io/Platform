@@ -16,7 +16,7 @@
 // that are loaded by an AMD loader, but they still want access to globals.
 // See : https://github.com/umdjs/umd
 // See : https://github.com/umdjs/umd/blob/master/returnExportsGlobal.js
-//
+
 (function (root, factory) {
     "use strict";
 

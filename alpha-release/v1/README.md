@@ -6,4 +6,3 @@ Safehaven platform code (core)
 Alpha - v1.0
 
 
-MVP code will be published in 4 weeks.

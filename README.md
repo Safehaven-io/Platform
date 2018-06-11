@@ -7,6 +7,8 @@ Safehaven platform code (core)
   Source code will be uploaded shortly
 ```
 
+[![N|Solid](https://github.com/Safehaven-io/Media/blob/master/MVP0.png)](https://safehaven.io/)
+
 [![N|Solid](https://github.com/Safehaven-io/Media/blob/master/MVP1.png)](https://safehaven.io/)
 
 [![N|Solid](https://github.com/Safehaven-io/Media/blob/master/MVP2.png)](https://safehaven.io/)

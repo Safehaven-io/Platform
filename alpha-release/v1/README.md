@@ -3,6 +3,8 @@
 # Platform
 Safehaven platform code (core) 
 
-Alpha - v1.0
+Alpha - v1.0 (Ethereum)
+
+Alpha - v2.0 (VeChain)
 
 

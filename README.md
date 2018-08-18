@@ -1,7 +1,8 @@
 [![N|Solid](https://safehaven.io/img/logo_color.png)](https://safehaven.io/)
 
 # Platform
-Safehaven platform code (core)
+Safehaven platform code (core) 
+
 
 ```
   Source code will be uploaded shortly
